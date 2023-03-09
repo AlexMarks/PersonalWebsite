@@ -1,0 +1,31 @@
+body{
+    background-color: #FFEADB;
+    
+}
+h1{
+    color: #637373;
+}
+h3{
+    color: #637373;
+    text-align: center;
+}
+p,li{
+    color: #679B9B;
+}
+a {
+    color: #FF9A76;
+}
+hr{
+    border-style: dotted none none;
+    background-color: #FFEADB;
+    border-color:  #A4907C;
+    border-width: 10px;
+    height: 0px;
+    width: 5%;
+}
+
+div{
+    margin: auto;
+    width: max-content;
+    padding: 10px;
+}
